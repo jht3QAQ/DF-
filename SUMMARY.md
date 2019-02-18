@@ -2,7 +2,7 @@
 
 * [0.前言](README.md)
 * [1.简单粗暴的新手攻略](简单粗暴的新手攻略/简单粗暴的新手攻略.md)
-    * [1.1.Don'tForget注意事项](简单粗暴的新手攻略/Don'tForget注意事项/Don'tForget注意事项.md)
+    * [1.1.Don'tForget注意事项](简单粗暴的新手攻略/DontForget注意事项/DontForget注意事项.md)
     * [1.2.Village森林迷宫走法](简单粗暴的新手攻略/Village森林迷宫走法/Village森林迷宫走法.md)
     * [1.3.羊妈皮肤使用心得](简单粗暴的新手攻略/羊妈皮肤使用心得/羊妈皮肤使用心得.md)
     * [1.4.[LOVE]最强练级大法【需要Badge】](简单粗暴的新手攻略/[LOVE]最强练级大法【需要Badge】/[LOVE]最强练级大法【需要Badge】.md)
